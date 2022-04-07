@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Mom to 4 humans
+* Fav things
+  * Animals
+  * Music
+  * News
+  * Curent events
